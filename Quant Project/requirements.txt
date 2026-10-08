@@ -1,0 +1,2 @@
+python -m pip install numpy pandas scipy fastapi uvicorn pydantic scikit-learn
+python main_api.py
